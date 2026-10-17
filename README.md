@@ -44,6 +44,25 @@ Este é o meu primeiro projeto autoral e continua em evolução.
 ---
 
 ## Modelagem e arquitetura
+### Diagramas
+
+**Modelo de dados (DER)**
+
+![DER do Projeto Telex](docs/Diagrama%20do%20projeto%20telex-Dados_DER.drawio.png)
+
+**Fluxograma de cadastro de cliente**
+
+![Fluxograma de cadastro](docs/Diagrama%20do%20projeto%20telex-Cadastro.drawio.png)
+
+**Fluxograma de consumo de dados**
+
+![Fluxograma de consumo de dados](docs/Diagrama%20do%20projeto%20telex-Consumo%20de%20dados.drawio.png)
+
+**Fluxograma de upgrade e downgrade de plano**
+
+![Fluxograma de upgrade e downgrade](docs/Diagrama%20do%20projeto%20telex-up_down.drawio.png)
+
+Os diagramas editáveis estão em [`docs/Diagrama do projeto telex.drawio`](docs/Diagrama%20do%20projeto%20telex.drawio).
 
 O sistema se apoia em dois pilares. A documentação da modelagem (DER e fluxogramas) está na pasta [`docs/`](docs/).
 
