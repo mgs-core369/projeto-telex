@@ -83,5 +83,7 @@ O sistema se apoia em dois pilares. A documentação da modelagem (DER e fluxogr
 ## Autor
 
 **Miguel Matias**
+
 Estudante de Análise e Desenvolvimento de Sistemas (UNINOVE)
+
 [LinkedIn](https://www.linkedin.com/in/miguel-matias-nunes-soares0849abt) · [GitHub](https://github.com/mgs-core369)
